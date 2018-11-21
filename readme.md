@@ -6,5 +6,8 @@ This pj learn css and design skill.
 Create generar button by `a` tag.
 
 create item
- - task1.html
- - task1.css
+```
+- task1
+  └ index.html
+  └ style.css
+```
